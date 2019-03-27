@@ -26,34 +26,37 @@ Getting started
 * Request your i20 from the international student's office (ISSS <https://isss.ucsc.edu>). You would get an email about it. You will pay around 70$ to get the i20 couriered to you. You will need it for your Visa. 
 * As an international student Keep track of your financial, logisitic requirements at <https://visadocs.ucsc.edu>
 * Keep track of your TODOs at <https://my.ucsc.edu/>
-* Find housing, decide courses, visa, tickets ... 
+* Find housing, decide courses, visa, tickets etc ... 
 
 COURSES
 ------
 - Choosing courses How to?  
-> Know your funding. Know your goal for master’s. Know your degree requirement (<https://www.soe.ucsc.edu/departments/computer-science-and-engineering/graduate/degree-requirements-cmps>) Know if you want to intern
-How many quarters does it take to finish MS? Practically at least 3. At most 6. Average is 4. (Sept Joining Year (to) December Joining Year+1)
+> Know your funding. Know your goal for master’s. Know your degree requirement (<https://www.soe.ucsc.edu/departments/computer-science-and-engineering/graduate/degree-requirements-cmps>) Know when and where you want to intern.
+- How many quarters does it take to finish MS?
+> Practically at least 3. At most 6. Average is 4. (Sept Joining Year (to) December Joining Year+1)
 - How many courses per quarter? 
-> 2 is the usual number of 5 credit courses. 3 is pushing it. 4 is impossible. Alternatively 3 + TA is impossible. 
+> 2 is the usual number of 5 credit courses. 3 is pushing it. 4 is impossible. Alternatively 3 + TA is impossible. The first quarter is an exception. 3 is manageable including CMPS200 as one.
 - When to choose courses?
-> You will get a mail from the grad advisor. (Alicia Haley).  
-are good for jobs. If you have 
+> You will get a mail from the grad advisor. (Alicia Haley). Typically 45 days before beginning of quarter.
 - When to take CMPS200/CMPE200? 
-> Should be taken in the 1st quarter. 
+> Should be taken in the 1st quarter. See requirements.
+- Can CMPE202 Requirement be waived by CS grads?
+> Yes. With an oral test with one of the CMPE202 Profs. 
+
 
 
 GRADES
 ------
 - How important is GPA at UCSC? 
-> Until you are better than 3.5/4 and you don’t get below B- on 2 courses you
+> Until your GPA is > 3.5/4 and you don’t get below B- on 2 courses you are good if you will join the industry. If you will pursue a Ph.D the good GPA is necessary. Also, below B- on 2 courses will put you on academic probation. Poor Academic Standing for international students can have you deported.
 
-- To take THESIS or PROJECT
+- To take THESIS or PROJECT?
 > You have until the last quarter to decide. You can walk away with any of these choices by enrolling in the courses CMPS(E)296/299 in the graduating quarter. 
 
 VACCINES
 ------
 - How to show proof of immunization? 
-> I went to a lab nearby(Dr.Lal PathLabs) showed them the bunch of immunizations proof. (3-4 Blood samples/5000 rupees/2 working days) for report that i submitted at healthcenter.ucsc.edu 
+> Go to a lab nearby(I went to Dr.Lal PathLabs). Show them the bunch of immunizations proof needed. With 3-4 Blood samples + ~5000 rupees + 2 working days you get the report that needs to be submitted at <healthcenter.ucsc.edu>.
 
 
 TRANSCRIPTS
