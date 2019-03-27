@@ -57,7 +57,7 @@ GRADES
 VACCINES
 ------
 - How to show proof of immunization? 
-> Go to a lab nearby(I went to Dr.Lal PathLabs). Show them the bunch of immunizations proof needed. With 3-4 Blood samples + ~5000 rupees + 2 working days you get the report that needs to be submitted at <healthcenter.ucsc.edu>.
+> Go to a lab nearby(I went to Dr.Lal PathLabs). Show them the bunch of immunizations proof needed. With 3-4 Blood samples + ~5000 rupees + 2 working days you get the report that needs to be submitted at <https://healthcenter.ucsc.edu/>.
 
 
 TRANSCRIPTS
@@ -72,6 +72,9 @@ INTERNSHIP
 
 - When to start internship hunt? 
 > As soon as you land. Or maybe before.
+
+- How hard is the job hunt? 
+> Depends on your profile. Your skillset match commends interview calls. However, if you apply in the company site maybe its just luck.
 
 - How is the ALUMNI Network?
 > Frankly Poor. But you can network / find them on Linkedin and InMail them.
