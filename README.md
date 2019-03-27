@@ -41,7 +41,7 @@ COURSES
 > You will get a mail from the grad advisor (Alicia Haley). Typically 45 days before beginning of quarter.
 - When to take CMPS200/CMPE200? 
 > Should be taken in the 1st quarter. See requirements.
-- Can CMPE202 Requirement be waived by CS grads?
+- Can CMPE202 Requirement be waived (CS grads only)?
 > Yes. With an oral test with one of the CMPE202 Profs. If you failed the test, you need to take the course with Letter grade to get done with the requirement.
 
 
@@ -51,7 +51,7 @@ GRADES
 - How important is GPA at UCSC? 
 > Until your GPA is > 3.5/4 and you don’t get below B- on 2 courses you are good if your plan is to join the industry. If you intend to pursue a Ph.D a good GPA is necessary. Also, scoring B- on 2 courses will put you on academic probation. Poor Academic Standing for international students can have you deported.
 
-- To take THESIS or PROJECT?
+- To take THESIS or PROJECT track(Masters only)?
 > You have until the last quarter to decide. You can walk away with any of these choices by enrolling in the courses CMPS(E)296/299 in the graduating quarter. 
 
 VACCINES
@@ -103,6 +103,18 @@ INSURANCE
 
 FINANCES
 ------
+- What is the cost of my MS at UCSC?
+> Too broad. Lets break it down and perform an example math which will give you a rough idea.
+
+| Quarter        | Fee($)           | Living($) | Income |
+| ------------- |:-------------:| -----:|-----:|
+| Fall Year1     | -11000 | -3000 | 0 |
+| Winter Year1      | -11000 | -3000 | 0 |
+| Spring Year1 | -11000 | -3000 | 0 |
+ Summer Year1 | +15000      |    3000 | 0 | 
+| Fall Year2 | -5500 | -3000 | 0 |
+
+
 - Average rent in Santa Cruz as of 2018-19? 
 > 800$/month.
 
@@ -112,12 +124,13 @@ FINANCES
 - How hard is it to find housing in Santa Cruz?
 > Medium to Hard. 
 
-- Where do I look?
+- Where do I look for housing?
 > Your options,
 1. Network with previous batch to find who is graduating and if they have a spot
 2. Post on the Facebook/Reddit group listed above
 3. Try <https://www.zillow.com> 
 4. Try <https://www.housingregistry.net/>
+5. Innovate.
 
 - Fall quarter fee payment. HOW TO?
 > You will have options either to wire transfer or pay via <https://www.flywire.com/>. If you have a student loan, give the wire transfer details to the bank/lender. You can mail <https://sbs.ucsc.edu/> for the wire transfer details.
