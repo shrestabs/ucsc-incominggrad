@@ -1,8 +1,7 @@
-## FAQ for University of California, Santa Cruz 2019 Incoming Grads
-
 Congratulation  to all graduate students (M.S, Ph.D.) for receiving an admit from University of California, Santa Cruz. I intend to document some of the common questions that is likely to arise from the day you get an admit well into the 2 quarters of your graduate studies. I write this from an Indian/CS or CE student prespective though its applicable to all grad students. 
 
 There are no answers that will help compare your admits. Post in whatsapp/facebook groups or talk to the previous batch grads for opinions on the same. However my take on the pros and cons of UCSC are,
+
 UCSC Strengths
 ------
 * Strong research.
