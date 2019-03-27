@@ -1,6 +1,6 @@
-## :sunglasses: FAQ for University of California, Santa Cruz 2019 Incoming Grads :sunglasses:
+## FAQ for University of California, Santa Cruz 2019 Incoming Grads
 
-Congratulation to all graduate students (M.S, Ph.D.) for receiving an admit from University of California, Santa Cruz. I intend to document some of the common questions that is likely to arise from the day you get an admit well into the 2 quarters of your graduate studies. 
+Congratulation :clap: to all graduate students (M.S, Ph.D.) for receiving an admit from University of California, Santa Cruz. I intend to document some of the common questions that is likely to arise from the day you get an admit well into the 2 quarters of your graduate studies. 
 
 UCSC 2019 FAQ - Version 1
 Point of Contact
