@@ -2,14 +2,12 @@
 
 Congratulation  to all graduate students (M.S, Ph.D.) for receiving an admit from University of California, Santa Cruz. I intend to document some of the common questions that is likely to arise from the day you get an admit well into the 2 quarters of your graduate studies. I write this from an Indian/CS or CE student prespective though its applicable to all grad students. 
 
-Admits ranking -> Post in the group
-
+There are no answers that will help compare your admits. Post in whatsapp/facebook groups or talk to the previous batch grads for opinions on the same. However my take on the pros and cons of UCSC are,
 UCSC Strengths
 ------
 * Strong research.
 * Proximity to bay area.
 * Small school. Better visibility.
-
 UCSC Cons
 ------
 * Less number of Career fair.
@@ -77,8 +75,11 @@ INTERNSHIP
 
 RESEARCH
 ------
-- Find advisor?
-- Getting in labs?
+- Find advisor (Ph.D)?
+> If you joined with an advisor already in your mind (who most likely interviewed you), your Prof. probably mailed you about how he/she plans to onboard you. If you don't have anyone in your mind, you will have enough time to network in the first 2 quarters and join a lab group.
+
+- Find advisor (Masters)?
+> Master's students will need advisors for advising their Master's project or thesis. Depending on the Professor, you will be expected to commit for 2-3 quarters and deliver something to the lab or Prof's work. This contribution will be decide you CMPS296/CMPS299 course grade.
 
 
 INSURANCE
@@ -180,7 +181,9 @@ TRAVEL
 FUN
 ------
 - Beaches, Hiking trails, Mystery spot, Boardwalk
+- Pubs and clubs mostly unaffordable until your first real job.
 - Rent cars, know about zipcar: https://www.zipcar.com/ 
+
 
 MISC
 ------
