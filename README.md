@@ -1,9 +1,12 @@
-## FAQ for University of California, Santa Cruz incoming grads
+## FAQ for University of California, Santa Cruz 2019 Incoming Grads
 
-You can use the [editor on GitHub](https://github.com/shrestabs/ucsc-incominggrad/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Congratulation to all graduate students (M.S, Ph.D.) for receiving an admit from University of California, Santa Cruz. I intend to document some of the common questions that is likely to arise from the day you get an admit well into the 2 quarters of your graduate studies. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+<!-- .You can use the [editor on GitHub](https://github.com/shrestabs/ucsc-incominggrad/edit/master/README.md) to maintain and preview the content for your website in Markdown files. -->
+
+<!--
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -25,6 +28,11 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+ -->
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
