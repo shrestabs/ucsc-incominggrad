@@ -1,14 +1,14 @@
-## FAQ for University of California, Santa Cruz 2019 Incoming Grads
+## :sunglasses: FAQ for University of California, Santa Cruz 2019 Incoming Grads :sunglasses:
 
 Congratulation to all graduate students (M.S, Ph.D.) for receiving an admit from University of California, Santa Cruz. I intend to document some of the common questions that is likely to arise from the day you get an admit well into the 2 quarters of your graduate studies. 
 
 UCSC 2019 FAQ - Version 1
 Point of Contact
 -----------
-1: Shresta: MS in CS, Joined Fall’18. 
-2: Aasim: MS in CS, Joined Fall’18.
-3.Vihang: MS in CS, Joined Fall’18. 
-4.Karthik Jain: MS in CE.Joined Fall’18. 
+1: Shresta: MS in CS, Joined Fall’18. https://www.linkedin.com/in/shrestabs/  <br />
+2: Aasim: MS in CS, Joined Fall’18. <br />
+3.Vihang: MS in CS, Joined Fall’18.  <br />
+4.Karthik Jain: MS in CE.Joined Fall’18.  <br />
 
 FAQ
 ------
