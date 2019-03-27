@@ -7,6 +7,7 @@ UCSC Strengths
 * Strong research.
 * Proximity to bay area.
 * Small school. Better visibility.
+
 UCSC Cons
 ------
 * Less number of Career fair.
