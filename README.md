@@ -70,6 +70,9 @@ INTERNSHIP
 - Career fair frequency?
 > ~4 fairs seen by Fall’18 batch from sept 18 to mar 19. See <https://careers.ucsc.edu/>
 
+- How big was the career fair at UCSC?
+> The career fair targets undergrad(internship and fulltime) and grads equally. So not all companies coming are looking to hire you. The usual size of around 20 companies. The fair lasts for 5-6 hours and talk to someone from the company give your resume and hope for a call in the next week. (More details about the company at <https://careers.ucsc.edu/student/events-workshops/Job%20Fairs/index.html>)
+
 - When to start internship hunt? 
 > As soon as you land. Or maybe before.
 
@@ -106,7 +109,7 @@ FINANCES
 - What is the cost of my MS at UCSC?
 > Too broad. Lets take 4 different situations of how your quarter can be.
 
-| Quarter        | Exp($):Fee + Insurance    | Living($) | Income from grading or TAing | 
+| Quarter        | Expense($):Fee + Insurance    | Living($) | Income from grading or TAing | 
 | ------------- |:-------------:| -----:|-----:|
 | Q1:Fall     | -9500 -400 (3rd party insurance) | -3000 | +500 (Grader for 1 course) |
 | Q2:Winter     | -9500 -1500 (UCSHIP) | -3000 | +1000(Grader for 2 course) |
