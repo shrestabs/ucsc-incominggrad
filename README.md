@@ -85,7 +85,7 @@ RESEARCH
 > If you joined with an advisor already in your mind (who most likely interviewed you), your Prof. probably mailed you about how he/she plans to onboard you. If you don't have anyone in your mind, you will have enough time to network in the first 2 quarters and join a lab group.
 
 - Find advisor (Masters)?
-> Master's students will need advisors for advising their Master's project or thesis. Depending on the Professor, you will be expected to commit for 2-3 quarters and deliver something to the lab or Prof's work. This contribution will be decide you CMPS296/CMPS299 course grade.
+> Master's students will need advisors for advising their Master's project or thesis. Depending on the Professor, you will be expected to commit for 2-3 quarters and deliver something to the lab or Prof's work. This contribution will decide your CMPS296/CMPS299 course grade.
 
 
 INSURANCE
@@ -101,8 +101,9 @@ FINANCES
 ------
 - Average rent in Santa Cruz as of 2018-19? 
 > 800$/month.
+
 - What is the cost of living? 
-> Depends on your diet and lifestyle. How often do you eat outside. You will mostly spend 10-15$ per meal per person.
+> Depends on your diet and lifestyle. How often do you eat outside? You will mostly spend $10-15 per meal per person. Even if you are a non-vegetarian you will mostly spend less than $50 a week on necessities. 
 
 - How hard is it to find housing in Santa Cruz?
 > Medium to Hard. 
@@ -112,7 +113,7 @@ FINANCES
 1. Network with previous batch to find who is graduating and if they have a spot
 2. Post on the Facebook/Reddit group listed above
 3. Try <https://www.zillow.com> 
-4. 
+4. Try <https://www.housingregistry.net/>
 
 - Fall quarter fee payment. HOW TO?
 > You will have options either to wire transfer or pay via <https://www.flywire.com/>. If you have a student loan, give the wire transfer details to the bank/lender. You can mail <https://sbs.ucsc.edu/> for the wire transfer details.
@@ -123,8 +124,11 @@ FINANCES
 - Other jobs? 
 > Tutor/reader on campus is easy. You will never have to work at a McD.
 
-- Opening a bank account: Walk upto Chase,Mission St, Wells Fargo,River St,, BoA 
-> ATM: Best place is at the college near BayTree bookstore. 
+- Opening a bank account>
+> Walk upto Chase,Mission St, or Wells Fargo,River St or BoA and it should be done in 15 minutes. Call to schedule an appointment for even faster turn around. 
+
+- ATM?
+Best place is at the college near BayTree bookstore. You would need cash only if you are traveling by metro (bus) to the bay area. Cards almost always.
 
 SHOPPING
 ------
@@ -164,7 +168,11 @@ PURCHASES
 
 CLIMATE
 ------
-- Very pleasant. Comparable to hill stations in India. 7 degrees to 20 degrees throughout the year. Do bring an umbrella from India.
+- How is the climate at SC? 
+> Very pleasant. Comparable to hill stations in India. 7 degrees to 20 degrees throughout the year. Do bring an umbrella from India.
+
+- How to pack for the weather?
+> For men: Bring all the sweatshirts / jackets you have at home. You can always buy here. It is cheap. 
 
 TRAVEL
 ------
@@ -183,26 +191,30 @@ TRAVEL
 
 - Commute to college? 
 > Commute to college is free for all UCSC students. You need to show the bus driver your UCSC ID card. 
+
+- Other options?
+> Use the <https://jump.com/>'s Jumpbike app. Cheaper than an Uber. Drive safe :) 
  
 FUN
 ------
-- Beaches, Hiking trails, Mystery spot, Boardwalk
-- Pubs and clubs mostly unaffordable until your first real job.
-- Rent cars, know about zipcar: https://www.zipcar.com/ 
+1. Beaches(Natural Bridges), Hiking trails, Mystery spot, Boardwalk, The Wharf.
+2. Pubs and clubs mostly unaffordable until your first real job. The nearst shopping mall(Capitola Mall) is 4-5 miles away.
+3. Rent cars, know about zipcar: https://www.zipcar.com/ 
 
 
 MISC
 ------
-- Library 
 - How do get ID card? 
 > First day at college, get down at the BayTree Book store stop and ask someone. 
+
+- How to get access to Library/GSC/Gym/Swimming pool?
+> Walkin the first day during working hours. Once you are registered you are good.
+
 - What is the class size?
 > The 2018 CS class size ~45 matriculated out of ~850 that applied. The admit ratio is same for the CE program.
 
 - What happens on the first day of school?
 > A modest welcoming from the grad's office, and a bunch of trainings to do with sexual harassment, International students, TA training etc.
-
-> The graduate class size of UCSC is small. 
 
 
 Disclaimer
