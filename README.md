@@ -2,7 +2,7 @@ Congratulation  to all graduate students (M.S, Ph.D.) for receiving an admit fro
 
 There are no answers that will help compare your admits. Post in whatsapp/facebook groups or talk to the previous batch grads for opinions on the same. However my take on the pros and cons of UCSC are,
 
-UCSC Strengths
+UCSC Pros
 ------
 * Strong research. High profile Professors and labs.
 * Proximity to bay area.
