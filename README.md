@@ -6,15 +6,15 @@ Admits ranking -> Post in the group
 
 UCSC Strengths
 ------
-⋅⋅* Strong research
-⋅⋅* Proximity to bay area
+⋅⋅* Strong research.
+⋅⋅* Proximity to bay area.
 ⋅⋅* Small school. Better visibility.
 
 UCSC Cons
 ------
-⋅⋅* Less number of Career fair
+⋅⋅* Less number of Career fair.
 ⋅⋅* No co-op.
-⋅⋅* No spring intake
+⋅⋅* No spring intake.
 
 Getting start advice
 ------
