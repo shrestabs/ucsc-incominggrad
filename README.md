@@ -52,7 +52,7 @@ ALUMNI Network? Poor. But you can find them on Linkedin and InMail them.
 Interview process? The usual. Internships are easier to get vs full time. Maybe 3-4 times easier. 
 
 
-#RESEARCH
+# RESEARCH
 Find advisor?
 Getting in labs?
 
