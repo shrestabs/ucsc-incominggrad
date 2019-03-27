@@ -1,4 +1,4 @@
-Congratulation  to all graduate students (M.S, Ph.D.) for receiving an admit from University of California, Santa Cruz. I intend to document some of the common questions that is likely to arise from the day you get an admit to days well into the 2 quarters of your graduate studies. I write this from an Indian/CS or CE student prespective though its applicable to all grad students. 
+Congratulation  to all graduate students (M.S, Ph.D.) for receiving an admit from University of California, Santa Cruz. I intend to document some of the common Q&As that is likely to arise from the day you get an admit to days well into the 2 quarters of your graduate studies. I write this from an Indian/CS/CE student prespective though its applicable to all grad students. 
 
 There are no answers that will help compare your admits. Post in whatsapp/facebook groups or talk to the previous batch grads for opinions on the same. However my take on the pros and cons of UCSC are,
 
@@ -7,6 +7,7 @@ UCSC Strengths
 * Strong research. High profile Professors and labs.
 * Proximity to bay area.
 * Small school. Better visibility.
+* Funding likely with TA.
 
 UCSC Cons
 ------
@@ -31,24 +32,24 @@ Getting started
 COURSES
 ------
 - Choosing courses How to?  
-> Know your funding. Know your goal for master’s. Know your degree requirement (<https://www.soe.ucsc.edu/departments/computer-science-and-engineering/graduate/degree-requirements-cmps>) Know when and where you want to intern.
+> Know your funding. Know your goal for master’s. Know your degree requirement (<https://www.soe.ucsc.edu/departments/computer-science-and-engineering/graduate/degree-requirements-cmps>) Know when and where you want to intern. Plan your time accordingly. You are the best judge.
 - How many quarters does it take to finish MS?
 > Practically at least 3. At most 6. Average is 4. (Sept Joining Year (to) December Joining Year+1)
 - How many courses per quarter? 
-> 2 is the usual number of 5 credit courses. 3 is pushing it. 4 is impossible. Alternatively 3 + TA is impossible. The first quarter is an exception. 3 is manageable including CMPS200 as one.
+> 2 is the usual number of 5 credit courses. 3 is pushing it. 4 is impossible. Alternatively 3 + TAing is impossible. The first quarter is an exception. 3 courses is manageable including CMPS200 as one.
 - When to choose courses?
-> You will get a mail from the grad advisor. (Alicia Haley). Typically 45 days before beginning of quarter.
+> You will get a mail from the grad advisor (Alicia Haley). Typically 45 days before beginning of quarter.
 - When to take CMPS200/CMPE200? 
 > Should be taken in the 1st quarter. See requirements.
 - Can CMPE202 Requirement be waived by CS grads?
-> Yes. With an oral test with one of the CMPE202 Profs. 
+> Yes. With an oral test with one of the CMPE202 Profs. If you failed the test, you need to take the course with Letter grade to get done with the requirement.
 
 
 
 GRADES
 ------
 - How important is GPA at UCSC? 
-> Until your GPA is > 3.5/4 and you don’t get below B- on 2 courses you are good if you will join the industry. If you will pursue a Ph.D the good GPA is necessary. Also, below B- on 2 courses will put you on academic probation. Poor Academic Standing for international students can have you deported.
+> Until your GPA is > 3.5/4 and you don’t get below B- on 2 courses you are good if your plan is to join the industry. If you intend to pursue a Ph.D a good GPA is necessary. Also, scoring B- on 2 courses will put you on academic probation. Poor Academic Standing for international students can have you deported.
 
 - To take THESIS or PROJECT?
 > You have until the last quarter to decide. You can walk away with any of these choices by enrolling in the courses CMPS(E)296/299 in the graduating quarter. 
@@ -67,15 +68,15 @@ TRANSCRIPTS
 INTERNSHIP
 ------
 - Career fair frequency?
-> ~4 fairs seen by Fall’18 batch from sept 18 to mar 19.
+> ~4 fairs seen by Fall’18 batch from sept 18 to mar 19. See <https://careers.ucsc.edu/>
 
 - When to start internship hunt? 
-> As soon as you land.
+> As soon as you land. Or maybe before.
 
 - How is the ALUMNI Network?
-> Poor. But you can find them on Linkedin and InMail them.
+> Frankly Poor. But you can network / find them on Linkedin and InMail them.
 
-- How is the Interview process of UCSC grad?
+- How is the Interview process for UCSC grads?
 > The usual. Unlike grads from top tier colleges like CMU that directly get an interview call, UCSC grads mostly go through an online coding callenge (Mostly Hackerrank). Internships are easier to get compared to full time. Maybe 3-4 times easier. 
 
 
