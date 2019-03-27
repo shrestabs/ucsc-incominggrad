@@ -62,18 +62,21 @@ VACCINES
 TRANSCRIPTS
 ------
 - When to submit transcripts?
-> It’s okay if you come here and submit it in person.
+> It’s okay to submit in person after you arrive.
 
 INTERNSHIP
 ------
 - Career fair frequency?
-> ~4 fairs seen by Fall’18 batch from sept 18 to mar 19
+> ~4 fairs seen by Fall’18 batch from sept 18 to mar 19.
+
 - When to start internship hunt? 
-> As soon as you land
+> As soon as you land.
+
 - How is the ALUMNI Network?
 > Poor. But you can find them on Linkedin and InMail them.
+
 - How is the Interview process of UCSC grad?
-> The usual. Unlike grads from top tier colleges like CMU that directly get an interview call, UCSC grads mostly go through an online coding callenge (Mostly Hackerrank). Internships are easier to get vs full time. Maybe 3-4 times easier. 
+> The usual. Unlike grads from top tier colleges like CMU that directly get an interview call, UCSC grads mostly go through an online coding callenge (Mostly Hackerrank). Internships are easier to get compared to full time. Maybe 3-4 times easier. 
 
 
 RESEARCH
