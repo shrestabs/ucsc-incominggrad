@@ -110,9 +110,9 @@ FINANCES
 | ------------- |:-------------:| -----:|-----:|
 | Fall Year1     | -9500 -400 (3rd party insurance) | -3000 | +500 (Grader for 1 course) |
 | Winter Year1      | -9500 -1500 (UCSHIP) | -3000 | +1000(Grader for 2 course) |
-| Spring Year1 | -5500 () | -3000 | +6000 (TA for one course) |
+| Spring Year1 | -5500 (fee waiver) | -3000 | +6000 (TA for one course) |
  Summer Year1 |  0 |    -4500 (bay area cost) | +15000 (internship salary) | 
-| Fall Year2 | -5500 | -3000 | +6000 |
+| Fall Year2 | -5500 (fee waiver) | -3000 | +6000 (TA for one course) |
 
 
 - Average rent in Santa Cruz as of 2018-19? 
