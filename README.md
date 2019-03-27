@@ -22,15 +22,15 @@ Getting start advice
 COURSES
 ------
 - Choosing courses How to?  
-Know your funding. Know your goal for master’s. Know your degree requirements (https://www.soe.ucsc.edu/departments/computer-science-and-engineering/graduate/degree-requirements-cmps) Know if you want to intern
+> Know your funding. Know your goal for master’s. Know your degree requirement (https://www.soe.ucsc.edu/departments/computer-science-and-engineering/graduate/degree-requirements-cmps) Know if you want to intern
 How many quarters does it take to finish MS? Practically at least 3. At most 6. Average is 4. (Sept Joining Year (to) December Joining Year+1)
 - How many courses per quarter? 
-2 is the usual number of 5 credit courses. 3 is pushing it. 4 is impossible. Alternatively 3 + TA is impossible. 
+> 2 is the usual number of 5 credit courses. 3 is pushing it. 4 is impossible. Alternatively 3 + TA is impossible. 
 - When to choose courses?
-You will get a mail from the grad advisor. (Alicia Haley).  
+> You will get a mail from the grad advisor. (Alicia Haley).  
 are good for jobs. If you have 
 - When to take CMPS200/CMPE200? 
-Should be taken in the 1st quarter. 
+> Should be taken in the 1st quarter. 
 
 
 GRADES
