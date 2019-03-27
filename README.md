@@ -71,7 +71,7 @@ INTERNSHIP
 > ~4 fairs seen by Fall’18 batch from sept 18 to mar 19. See <https://careers.ucsc.edu/>
 
 - How big was the career fair at UCSC?
-> The career fair targets undergrad(internship and fulltime) and grads equally. So not all companies coming are looking to hire you. The usual size of around 20 companies. The fair lasts for 5-6 hours and talk to someone from the company give your resume and hope for a call in the next week. (More details about the company at <https://careers.ucsc.edu/student/events-workshops/Job%20Fairs/index.html>)
+> The career fair targets undergrad(internship and fulltime) and grads equally. So not all companies coming are looking to hire you. The usual size of around 20 companies. The fair lasts for 5-6 hours and talk to someone from the company give your resume and hope for a call in the next week. Noteable ones are Nvidia, Facebook, Arista. (More details about the company at <https://careers.ucsc.edu/student/events-workshops/Job%20Fairs/index.html>)
 
 - When to start internship hunt? 
 > As soon as you land. Or maybe before.
