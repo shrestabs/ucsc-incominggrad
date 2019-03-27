@@ -22,7 +22,7 @@ Getting start advice
 COURSES
 ------
 - Choosing courses How to?  
-> Know your funding. Know your goal for master’s. Know your degree requirement (https://www.soe.ucsc.edu/departments/computer-science-and-engineering/graduate/degree-requirements-cmps) Know if you want to intern
+> Know your funding. Know your goal for master’s. Know your degree requirement (<https://www.soe.ucsc.edu/departments/computer-science-and-engineering/graduate/degree-requirements-cmps>) Know if you want to intern
 How many quarters does it take to finish MS? Practically at least 3. At most 6. Average is 4. (Sept Joining Year (to) December Joining Year+1)
 - How many courses per quarter? 
 > 2 is the usual number of 5 credit courses. 3 is pushing it. 4 is impossible. Alternatively 3 + TA is impossible. 
@@ -73,10 +73,10 @@ RESEARCH
 INSURANCE
 ------
 - Should you take college insurance (UCSHIP)? 
-Depends on how much you want to risk. UCSHIP premium is ~1500$ per quarter. Priviate insurance like (https://www.psiservice.com/) and (https://www.isoa.org/) is ~400$ per quarter. If you are hired by TA the college provides free insurance. Know enough about US healthcare system before making this decision. 
+Depends on how much you want to risk. UCSHIP premium is ~1500$ per quarter. Priviate insurance like (<https://www.psiservice.com/>) and (<https://www.isoa.org/>) is ~400$ per quarter. If you are hired by TA the college provides free insurance. Know enough about US healthcare system before making this decision. 
 
 - How to waive insurance? 
-https://healthcenter.ucsc.edu/billing-insurance/faqs/insurance_waiver/
+<https://healthcenter.ucsc.edu/billing-insurance/faqs/insurance_waiver/>
 
 
 FINANCES
@@ -111,7 +111,7 @@ Lookup thriftstore,santa cruz on google or order from amazon.
 PURCHASE
 ------
 - Laptop? 
-If MAC, you have connection at Apple, get the employee discount. Else Baytree Bookstore has cheap options. Try https://www.bhphotovideo.com/ and Amazon too. 
+If MAC, you have connection at Apple, get the employee discount. Else Baytree Bookstore has cheap options. Try <https://www.bhphotovideo.com/> and Amazon too. 
 
 TRAVEL
 ------
@@ -119,8 +119,9 @@ TRAVEL
 SFO. SJC is close but cheaper option is landing at SFO. 
 
 - Getting to Santa Cruz from SFO with luggage? 
+> Your options,
 1. Uber: Choose common landing dates and time and pool.
-2. http://www.santacruzflyer.com/ 
+2. <http://www.santacruzflyer.com/>
 3. Request some senior to come pick you up.
 
 - Getting to Santa Cruz from SFO without luggage? 
