@@ -104,15 +104,14 @@ INSURANCE
 FINANCES
 ------
 - What is the cost of my MS at UCSC?
-> Too broad. Lets break it down and perform an example math which will give you a rough idea.
+> Too broad. Lets take 4 different situations of how your quarter can be. 
 
-| Quarter        | Fee($)           | Living($) | Income from grading or TAing | 
+| Quarter        | Exp($):Fee + Insurance    | Living($) | Income from grading or TAing | 
 | ------------- |:-------------:| -----:|-----:|
-| Fall Year1     | -9500 -400 (3rd party insurance) | -3000 | +500 (Grader for 1 course) |
-| Winter Year1      | -9500 -1500 (UCSHIP) | -3000 | +1000(Grader for 2 course) |
-| Spring Year1 | -5500 (after fee waiver) | -3000 | +6000 (TA for one course) |
- Summer Year1 |  0 |    -4500 (bay area cost) | +15000 (internship salary) | 
-| Fall Year2 | -5500 (after fee waiver) | -3000 | +6000 (TA for one course) |
+| Q1:Fall Year1     | -9500 -400 (3rd party insurance) | -3000 | +500 (Grader for 1 course) |
+| Q2:Winter Year1      | -9500 -1500 (UCSHIP) | -3000 | +1000(Grader for 2 course) |
+| Q3:Spring Year1 | -5500 (after fee waiver) | -3000 | +6000 (TA for one course) |
+ Q4:Summer Year1 |  0 |    -4500 (bay area cost) | +15000 (internship salary) | 
 
 - Average rent in Santa Cruz as of 2018-19? 
 > 800$/month.
