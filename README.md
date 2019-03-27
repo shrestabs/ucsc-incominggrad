@@ -128,7 +128,7 @@ FINANCES
 > Walk upto Chase,Mission St, or Wells Fargo,River St or BoA and it should be done in 15 minutes. Call to schedule an appointment for even faster turn around. 
 
 - ATM?
-Best place is at the college near BayTree bookstore. You would need cash only if you are traveling by metro (bus) to the bay area. Cards almost always.
+> Best place is at the college near BayTree bookstore. You would need cash only if you are traveling by metro (bus) to the bay area. Cards almost always.
 
 SHOPPING
 ------
@@ -157,6 +157,9 @@ FOOD
 
 PURCHASES
 ------
+- Shops on campus?
+> BayTree Bookstore to buy UCSC merchandise. Accessory store also has coffee, bars, drinks etc.
+
 - Laptop? 
 > If MAC, you have connection at Apple, get the employee discount. Else Baytree Bookstore has cheap options. Try <https://www.bhphotovideo.com/> and Amazon too. 
 
@@ -184,7 +187,7 @@ TRAVEL
 1. Uber: Choose common landing dates and time and pool.
 2. <http://www.santacruzflyer.com/>
 3. Request some senior to come pick you up.
-4. Innovate 
+4. Innovate.
 
 - Getting to Santa Cruz from SFO without luggage? 
 > There are bunch of trains and metro buses. Follow Google maps.  
@@ -199,7 +202,7 @@ FUN
 ------
 1. Beaches(Natural Bridges), Hiking trails, Mystery spot, Boardwalk, The Wharf.
 2. Pubs and clubs mostly unaffordable until your first real job. The nearst shopping mall(Capitola Mall) is 4-5 miles away.
-3. Rent cars, know about zipcar: https://www.zipcar.com/ 
+3. Rent cars, know about zipcar: <https://www.zipcar.com/>
 
 
 MISC
