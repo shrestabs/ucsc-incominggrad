@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## FAQ for University of California, Santa Cruz incoming grads
 
 You can use the [editor on GitHub](https://github.com/shrestabs/ucsc-incominggrad/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
