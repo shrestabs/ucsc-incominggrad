@@ -119,6 +119,9 @@ FINANCES
 - Average rent in Santa Cruz as of 2018-19? 
 > 800$/month.
 
+-Average cost of internet? 
+> $50-$60/month per house
+
 - What is the cost of living? 
 > Depends on your diet and lifestyle. How often do you eat outside? You will mostly spend $10-15 per meal per person. Even if you are a non-vegetarian you will mostly spend less than $50 a week on necessities. 
 
@@ -208,10 +211,13 @@ TRAVEL
 4. Innovate.
 
 - Getting to Santa Cruz from SFO without luggage? 
-> There are bunch of trains and metro buses. Follow Google maps.  
+> There are bunch of trains and metro buses. Follow Google maps.
+
+- What is the name of the college bus stop?
+> Baskin Engineering or Science Hill.
 
 - Commute to college? 
-> Commute to college is free for all UCSC students. You need to show the bus driver your UCSC ID card. 
+> Commute to college is free for all UCSC students. You need to show the bus driver your UCSC ID card. Its less than 30 minutes from anywhere within santa cruz to Baskin Engineering.
 
 - Other options?
 > Use the <https://jump.com/>'s Jumpbike app. Cheaper than an Uber. Drive safe :) 
