@@ -1,11 +1,11 @@
-Congratulation  to all graduate students (M.S, Ph.D.) for receiving an admit from University of California, Santa Cruz. I intend to document some of the common Q&As that is likely to arise from the day you get an admit to days well into the 2 quarters of your graduate studies. I write this from an Indian/CS/CE student prespective though its applicable to all grad students. 
+Congratulation to all graduate students (M.S, PhD) for receiving an admit from University of California, Santa Cruz. I intend to document some of the common Q&As that are likely to arise from the day you get an admit to days well into the 2 quarters of your graduate studies. I write this from an Indian/CS/CE student perspective though it is applicable to all grad students. 
 
-There are no answers that will help compare your admits. Post in whatsapp/facebook groups or talk to the previous batch grads for opinions on the same. However my take on the pros and cons of UCSC are,
+There are no answers that will help compare your admits. Post in WhatsApp/Facebook groups or talk to the previous batch grads for opinions on the same. However my take on the pros and cons of UCSC are,
 
 UCSC Pros
 ------
 * Strong research. High profile Professors and labs.
-* Proximity to bay area.
+* Proximity to the Bay Area.
 * Small school. Better visibility.
 * Funding likely with TA.
 
@@ -34,14 +34,14 @@ COURSES
 - Choosing courses How to?  
 > Know your funding. Know your goal for master’s. Know your degree requirement (<https://www.soe.ucsc.edu/departments/computer-science-and-engineering/graduate/degree-requirements-cmps>) Know when and where you want to intern. Plan your time accordingly. You are the best judge.
 - How many quarters does it take to finish MS?
-> Practically at least 3. At most 6. Average is 4. (Sept Joining Year (to) December Joining Year+1)
+> Practically at least 3. At most 6. The average is 4. (Sept Joining Year (to) December Joining Year+1)
 - How many courses per quarter? 
-> At least 2 As a international student to maintain a full-time student status we require 10 credits.So, two 5 credit courses is usual. 3 is pushing it. 4 is impossible. Alternatively 3 + TAing is impossible. The first quarter is an exception. 3 courses is manageable including CMPS200 as one.
+> At least 2 As an international student to maintain a full-time student status we require 10 credits. So, two 5 credit courses are the usual. 3 is pushing it. 4 is impossible. Alternatively, 3 + TAing is impossible. The first quarter is an exception. 3 courses are manageable including CMPS200 as one.
 
 - **Bonus question:** How to maintain full-time student status with the college without taking 10 credit course?
 > There is a course called independent study/CMPS297. That is a filler 5 credit course that u can take with the permission of a professor and work on your project/thesis. What is expected out of this course depends on which Prof. signed your independent study course. You can even take 2 CMPS297 a quarter and stay a full time student and just do research. You will have to pay the quarters’ full fee though. <https://grad.soe.ucsc.edu/independentstudy>
 - When to choose courses?
-> You will get a mail from the grad advisor (Alicia Haley). Typically 45 days before beginning of quarter.
+> You will get a mail from the grad advisor (Alicia Haley). Typically 45 days before the beginning of a quarter.
 - When to take CMPS200/CMPE200? 
 > Should be taken in the 1st quarter. See requirements.
 - Can CMPE202 Requirement be waived (CS grads only)?
@@ -69,10 +69,10 @@ TRANSCRIPTS
 INTERNSHIP
 ------
 - Career fair frequency?
-> ~4 fairs seen by Fall’18 batch from sept 18 to mar 19. See <https://careers.ucsc.edu/>
+> ~4 fairs seen by Fall’18 batch from Sept. 18 to Mar. 19. See <https://careers.ucsc.edu/>
 
 - How big was the career fair at UCSC?
-> The career fair targets undergrad(internship and fulltime) and grads equally. So not all companies coming are looking to hire you. The usual size of around 20 companies. The fair lasts for 5-6 hours and talk to someone from the company give your resume and hope for a call in the next week. Noteable ones are Nvidia, Facebook, Arista. (More details about the company at <https://careers.ucsc.edu/student/events-workshops/Job%20Fairs/index.html>)
+> The career fair targets undergrad(internship and fulltime) and grads equally. So not all companies coming are looking to hire you. The usual size of around 20 companies. The fair lasts for 5-6 hours and you talk to someone from the company, give your resume and hope for a call in the next week. Notable ones are Nvidia, Facebook, Arista. (More details about the company at <https://careers.ucsc.edu/student/events-workshops/Job%20Fairs/index.html>)
 
 - When to start internship hunt? 
 > As soon as you land. Or maybe before.
@@ -84,7 +84,7 @@ INTERNSHIP
 > Frankly Poor. But you can network / find them on Linkedin and InMail them.
 
 - How is the Interview process for UCSC grads?
-> The usual. Unlike grads from top tier colleges like CMU that directly get an interview call, UCSC grads mostly go through an online coding callenge (Mostly Hackerrank). Internships are easier to get compared to full time. Maybe 3-4 times easier. 
+> The usual. Unlike grads from top tier colleges like CMU that directly get an interview call, UCSC grads mostly go through an online coding challenge (Mostly Hackerrank). Internships are easier to get compared to full time. Maybe 3-4 times easier. 
 
 
 RESEARCH
@@ -99,7 +99,14 @@ RESEARCH
 INSURANCE
 ------
 - Should you take college insurance (UCSHIP)? 
-> Depends on how much you want to risk. UCSHIP premium is ~1500$ per quarter. Priviate insurance like (<https://www.psiservice.com/>) and (<https://www.isoa.org/>) is ~400$ per quarter. If you are hired by TA the college provides free insurance. Know enough about US healthcare system before making this decision. 
+> Depends on how much you want to risk. UCSHIP premium is ~1500$ per quarter. Private insurance like (<https://www.psiservice.com/>) and (<https://www.isoa.org/>) is ~400$ per quarter. If you are hired by TA the college provides free insurance. Know enough about US healthcare system before making this decision. 
+
+- Met with an accident within Santa Cruz? What do you do?
+> ALWAYS have a copy of your insurance ID in your wallet. If you are unconscious someone can help you out.  
+> For a minor accident including minor health ailments, If you are on campus during business hours, visit the health center.
+> For off business hours, if your condition is stable visit the nearest (in-network) hospital under URGENT care. EMERGENCY CARE is exorbitantly priced.
+> For minor accidents you can also call 911 and get your health stabilized. Opt NOT to use an ambulance to reach an hospital. Ambulance prices in the U.S. is exorbitant. 
+> In the worst emergency call 911, take an ambulance reach EMERGENCY and take every effort to get out of danger. 
 
 - How to waive insurance? 
 > <https://healthcenter.ucsc.edu/billing-insurance/faqs/insurance_waiver/>
@@ -172,7 +179,7 @@ SHOPPING
 - Furniture?
 > Lookup thriftstore,santa cruz on google or order from amazon. 
 - Misc purchases?
-> DollarTree is accessible by car. Once a quarter it is advisiable to buy suplies from there.
+> DollarTree is accessible by car. Once a quarter it is advisiable to buy supplies from there.
 
 FOOD
 ----
