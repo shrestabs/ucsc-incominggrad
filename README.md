@@ -37,14 +37,15 @@ COURSES
 > Practically at least 3. At most 6. Average is 4. (Sept Joining Year (to) December Joining Year+1)
 - How many courses per quarter? 
 > At least 2 As a international student to maintain a full-time student status we require 10 credits.So, two 5 credit courses is usual. 3 is pushing it. 4 is impossible. Alternatively 3 + TAing is impossible. The first quarter is an exception. 3 courses is manageable including CMPS200 as one.
+**Bonus question:**
+- How to maintain full-time student status with the college without taking 10 credit course:
+> There is a course called independent study/CMPS297. That is a filler 5 credit course that u can take with the permission of a professor and work on your project/thesis. What is expected out of this course depends on which Prof. signed your independent study course. You can even take 2 CMPS297 a quarter and stay a full time student and just do research. You will have to pay the quarters’ full fee though. <https://grad.soe.ucsc.edu/independentstudy>
 - When to choose courses?
 > You will get a mail from the grad advisor (Alicia Haley). Typically 45 days before beginning of quarter.
 - When to take CMPS200/CMPE200? 
 > Should be taken in the 1st quarter. See requirements.
 - Can CMPE202 Requirement be waived (CS grads only)?
 > Yes. With an oral test with one of the CMPE202 Profs. If you failed the test, you need to take the course with Letter grade to get done with the requirement.
-
-
 
 GRADES
 ------
@@ -124,10 +125,10 @@ FINANCES
 > $50-$60/month per house
 
 - What about SIM cards/cellphones? 
-> Along with your i20 courier, you receive a starter SIM called J1 sim (https://www.j1simcards.com/) that you can activate for $25 plan. **Feedback:** The network is really bad on campus.
+> Along with your i20 courier, you receive a starter SIM called J1 sim (<https://www.j1simcards.com/>) that you can activate for $25 plan. **Feedback:** The network is really bad on campus.
 > The alternative: $20-$25/month for a 2GB plan by standard providers like At&T, Verizon is the standard. 2GB will suffice given you would have wifi at home and college. A family plan with your roommates will bring cost down to $20.
 > There are certain areas near Porter/Rachel Carson college where most networks loose data coverage.
-> **Best deal**(after lot of research): I use a $15/month plan with Mint mobile. The network is very good for the price you pay. I recommend that to you. Please use my referral if you plan on buying Mint http://fbuy.me/lDgC0
+> **Best deal**(after lot of research): I use a $15/month plan with Mint mobile. The network is very good for the price you pay. I recommend that to you. Please use my referral if you plan on buying Mint <http://fbuy.me/lDgC0>
 
 - What is the cost of living? 
 > Depends on your diet and lifestyle. How often do you eat outside? You will mostly spend $10-15 per meal per person. Even if you are a non-vegetarian you will mostly spend less than $50 a week on necessities. 
