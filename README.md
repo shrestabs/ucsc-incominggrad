@@ -37,8 +37,8 @@ COURSES
 > Practically at least 3. At most 6. Average is 4. (Sept Joining Year (to) December Joining Year+1)
 - How many courses per quarter? 
 > At least 2 As a international student to maintain a full-time student status we require 10 credits.So, two 5 credit courses is usual. 3 is pushing it. 4 is impossible. Alternatively 3 + TAing is impossible. The first quarter is an exception. 3 courses is manageable including CMPS200 as one.
-**Bonus question:**
-- How to maintain full-time student status with the college without taking 10 credit course:
+
+- **Bonus question:** How to maintain full-time student status with the college without taking 10 credit course?
 > There is a course called independent study/CMPS297. That is a filler 5 credit course that u can take with the permission of a professor and work on your project/thesis. What is expected out of this course depends on which Prof. signed your independent study course. You can even take 2 CMPS297 a quarter and stay a full time student and just do research. You will have to pay the quarters’ full fee though. <https://grad.soe.ucsc.edu/independentstudy>
 - When to choose courses?
 > You will get a mail from the grad advisor (Alicia Haley). Typically 45 days before beginning of quarter.
