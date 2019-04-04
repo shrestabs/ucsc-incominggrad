@@ -110,6 +110,9 @@ FINANCES
 - What is the cost of my MS at UCSC?
 > Too broad. Lets take 4 different situations of how your quarter can be.
 
+- I do not have enough funds yet to show to the college in order to get my i20 because my Education Loan is yet to get sanctioned. What do I do?
+> This deadlock is not uncommon. **Solution:** Assuming you will need to show 45-50 lakhs as proof and you have 20 lakhs from family funds as liquid assets and you plan to take 25+ lakhs as a loan, for now you need to get a bank statement from one of ur relatives/friends. You then need to fill a form called affidavit of financial support from isss and ask them to sign it and say your parents + that relative/friend is funding you. Once you get your i20, show that to your bank and get your loan approved.
+
 | Quarter        | Expense($):Fee + Insurance    | Living($) | Income from grading or TAing | 
 | ------------- |:-------------:| -----:|-----:|
 | Q1:Fall     | -9500 -400 (3rd party insurance) | -3000 | +500 (Grader for 1 course) |
