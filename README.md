@@ -127,7 +127,7 @@ FINANCES
 > $50-$60/month per house
 
 - What about SIM cards/cellphones? 
-Some points here,
+> Some points here,
 1. Along with your i20 courier, you receive a starter SIM called J1 sim (<https://www.j1simcards.com/>) that you can activate for $25 plan. **Feedback:** The J1's network is really bad on campus. There are certain areas within campus (around Porter/Rachel Carson college) where all networks lose data coverage though.
 2. The alternative: $20-$25/month for a 2GB plan by standard providers like At&T, Verizon is the standard. 2GB will suffice given you would have wifi at home and college. A family plan with your roommates will bring cost down to $20.
 3. **Best deal**(after lot of research): I use a $15/month plan with Mint mobile. The network is very good for the price you pay. I recommend Mint. Please use my referral if you plan on buying Mint <http://fbuy.me/lDgC0> **Disclaimer:** I am not associated with Mint in anyway and I do not write this point as a promotion/ad.
