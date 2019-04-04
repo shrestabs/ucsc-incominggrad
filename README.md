@@ -45,7 +45,7 @@ COURSES
 - When to take CMPS200/CMPE200? 
 > Should be taken in the 1st quarter. See requirements.
 - Can CMPE202 Requirement be waived (CS grads only)?
-> Yes. With an oral test with one of the CMPE202 Profs. If you failed the test, you need to take the course with Letter grade to get done with the requirement.
+> Yes. With an oral test with one of the CMPE202 Profs. If you fail the test, you need to take the course with Letter grade to get done with the requirement.
 
 GRADES
 ------
