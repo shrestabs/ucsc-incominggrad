@@ -123,7 +123,7 @@ FINANCES
 - Average rent in Santa Cruz as of 2018-19? 
 > 800$/month.
 > Guys looking for housing at $650-$700 housing can contact me. I might have a spot of 2 from vacating seniors next year.
--Average cost of internet? 
+- Average cost of internet? 
 > $50-$60/month per house
 - What about SIM cards/cellphones? 
 1. Along with your i20 courier, you receive a starter SIM called J1 sim (<https://www.j1simcards.com/>) that you can activate for $25 plan. **Feedback:** The J1's network is really bad on campus. There are certain areas within campus (around Porter/Rachel Carson college) where all networks lose data coverage though.
