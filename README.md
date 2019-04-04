@@ -102,11 +102,11 @@ INSURANCE
 > Depends on how much you want to risk. UCSHIP premium is ~1500$ per quarter. Private insurance like (<https://www.psiservice.com/>) and (<https://www.isoa.org/>) is ~400$ per quarter. If you are hired by TA the college provides free insurance. Know enough about US healthcare system before making this decision. 
 
 - Met with an accident within Santa Cruz? What do you do?
-> ALWAYS have a copy of your insurance ID in your wallet. If you are unconscious someone can help you out.  
-> For a minor accident including minor health ailments, If you are on campus during business hours, visit the health center.
-> For off business hours, if your condition is stable visit the nearest (in-network) hospital under URGENT care. EMERGENCY CARE is exorbitantly priced.
-> For minor accidents you can also call 911 and get your health stabilized. Opt NOT to use an ambulance to reach an hospital. Ambulance prices in the U.S. is exorbitant. 
-> In the worst emergency call 911, take an ambulance reach EMERGENCY and take every effort to get out of danger. 
+ALWAYS have a copy of your insurance ID in your wallet. If you are unconscious someone can help you out.  
+1. For a minor accident including minor health ailments, If you are on campus during business hours, visit the health center.
+2. For off business hours, if your condition is stable visit the nearest (in-network) hospital under URGENT care. EMERGENCY CARE is exorbitantly priced.
+3. For minor accidents you can also call 911 and get your health stabilized. Opt NOT to use an ambulance to reach an hospital. Ambulance prices in the U.S. is exorbitant. 
+4. In the worst emergency call 911, take an ambulance reach EMERGENCY and take every effort to get out of danger. 
 
 - How to waive insurance? 
 > <https://healthcenter.ucsc.edu/billing-insurance/faqs/insurance_waiver/>
