@@ -118,9 +118,16 @@ FINANCES
 
 - Average rent in Santa Cruz as of 2018-19? 
 > 800$/month.
+> Guys looking for housing at $650-$700 housing can contact me. I might have a spot of 2 from vacating seniors next year.
 
 -Average cost of internet? 
 > $50-$60/month per house
+
+- What about SIM cards/cellphones? 
+> Along with your i20 courier, you receive a starter SIM called J1 sim (https://www.j1simcards.com/) that you can activate for $25 plan. **Feedback:** The network is really bad on campus.
+> The alternative: $20-$25/month for a 2GB plan by standard providers like At&T, Verizon is the standard. 2GB will suffice given you would have wifi at home and college. A family plan with your roommates will bring cost down to $20.
+> There are certain areas near Porter/Rachel Carson college where most networks loose data coverage.
+> **Best deal**(after lot of research): I use a $15/month plan with Mint mobile. The network is very good for the price you pay. I recommend that to you. Please use my referral if you plan on buying Mint http://fbuy.me/lDgC0
 
 - What is the cost of living? 
 > Depends on your diet and lifestyle. How often do you eat outside? You will mostly spend $10-15 per meal per person. Even if you are a non-vegetarian you will mostly spend less than $50 a week on necessities. 
